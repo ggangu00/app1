@@ -10,8 +10,4 @@ public class SampleController {
 	public String main() {
 		return "안뇽하뗴염";
 	}
-	
-	public static void main(String[] args) {
-		SpringApplication.run(App1Application.class, args);
-	}
 }
